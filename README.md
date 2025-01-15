@@ -45,8 +45,6 @@ func main() {
 For more detailed documentation, see the [Anthropic API docs](https://docs.anthropic.com/).
 
 
-// doc.go
-/*
 Package anthropic provides a Go client for the Anthropic Computer Use API.
 
 Example usage:
@@ -73,5 +71,3 @@ Example usage:
     if err != nil {
         log.Fatal(err)
     }
-*/
-package anthropic
